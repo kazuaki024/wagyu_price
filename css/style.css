@@ -25,6 +25,10 @@ p {
   padding: 60px 20px 20px;
 }
 
+.card {
+  border-radius: 0;
+}
+
 .result a {
   color: #343a40;
 }
